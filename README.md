@@ -1,4 +1,6 @@
-# Commit 13: Database creation and Users table
+
+
+# Commit 15: Events table with FKs
 git add docs/RaceDay_Schema.sql
-git commit -m "db: add database creation and Users table script"
+git commit -m "db: add Events table with FKs to Users and Venues"
 
