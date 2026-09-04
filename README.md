@@ -1,5 +1,5 @@
 
-
-# Commit 7: Add User Profile endpoints
+# Commit 8: Add Events endpoints
 git add docs/API_Endpoint_Plan.pdf
-git commit -m "docs: add User Profile endpoints to API plan"
+git commit -m "docs: add Events endpoints to API plan"
+
