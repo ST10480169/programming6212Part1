@@ -1,6 +1,6 @@
 
 
-# Commit 20: Seed data for Events and Categories
+# Commit 21: Seed data for Enrolments and Results
 git add docs/RaceDay_Schema.sql
-git commit -m "db: add seed data for Events and Categories"
+git commit -m "db: add seed data for Enrolments and Results"
 
