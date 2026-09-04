@@ -1,6 +1,6 @@
 
 
-# Commit 21: Seed data for Enrolments and Results
-git add docs/RaceDay_Schema.sql
-git commit -m "db: add seed data for Enrolments and Results"
 
+# Commit 22: Test script and finalize
+git add docs/RaceDay_Schema.sql
+git commit -m "db: test script end-to-end on clean SQL Server instance"
