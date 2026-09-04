@@ -1,6 +1,6 @@
 
 
-# Commit 19: Seed data for Users and Venues
+# Commit 20: Seed data for Events and Categories
 git add docs/RaceDay_Schema.sql
-git commit -m "db: add seed data for Users and Venues"
+git commit -m "db: add seed data for Events and Categories"
 
