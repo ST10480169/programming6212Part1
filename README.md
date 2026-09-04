@@ -1,8 +1,14 @@
-# RaceDay Part 1: System Planning and Database
+# Commit 3: Add draft ERD sketch
+# Make sure you have ERD.png in docs folder first
+git add docs/ERD.png
+git commit -m "docs: add draft ERD sketch with initial entities"
 
-## Overview
+# Commit 4: Refine ERD relationships
+# Update your ERD.png file with better relationships
+git add docs/ERD.png
+git commit -m "docs: refine ERD relationships and cardinality labels"
 
-RaceDay is a web-based event management system for road running, walking, and cycling events in South Africa.
-
-This project is being developed as part of Part 1 of the RaceDay system.
-
+# Commit 5: Finalise ERD
+# Final version of ERD with legend
+git add docs/ERD.png
+git commit -m "docs: finalise ERD with all six entities and legend"
