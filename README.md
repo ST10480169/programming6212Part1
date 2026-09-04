@@ -1,5 +1,6 @@
 
-# Commit 8: Add Events endpoints
+
+# Commit 9: Add Categories endpoints
 git add docs/API_Endpoint_Plan.pdf
-git commit -m "docs: add Events endpoints to API plan"
+git commit -m "docs: add Categories endpoints to API plan"
 
