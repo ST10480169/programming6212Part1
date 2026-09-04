@@ -1,6 +1,5 @@
 
 
-# Commit 15: Events table with FKs
+# Commit 16: Categories table with FK to Events
 git add docs/RaceDay_Schema.sql
-git commit -m "db: add Events table with FKs to Users and Venues"
-
+git commit -m "db: add Categories table with FK to Events"
